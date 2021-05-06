@@ -5,4 +5,4 @@
 <hr/>
 
 <h5>SHEMBULL:</h5>
-![Shembull](Animation.gif)
+![Shembull](https://github.com/OrgesKreka/minesweeper/blob/main/Animation.gif)
